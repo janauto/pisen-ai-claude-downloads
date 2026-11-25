@@ -1,0 +1,4 @@
+341ff8568d7c29a236e49bb09ccff6db2d401f1ef7c677fd7ac7cc231a40fb68  PisenAI-Claude-0.5.5-Windows-amd64.zip
+ec7331e793c1fe9fb2eeac553e78266ffb0a4ca3fc12d4d95705f71d0835dca9  PisenAI-Claude-0.5.5-Windows-arm64.zip
+3cc90840fff2b841bd2a7f7c4e2233f3f5134b722646f283ddabc924f1936b28  PisenAI-Claude-0.5.5-Windows-x86.zip
+f5ab469cd8f3e4526922cafcaf456d3d0f3650b3a67e4b0c83ae3b051a3c2ace  PisenAI-Claude-0.5.5-macOS.zip
